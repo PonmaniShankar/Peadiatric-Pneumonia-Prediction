@@ -1,0 +1,3 @@
+This study is to evaluate the effectiveness of several pre-trained convolutional neural network (CNN) models, using transfer learning, for detecting and classifying pediatric pneumonia from chest X-ray images.
+Different CNN architectures, including VGG, ResNet, DenseNet, Inception, Xception, MobileNet, and EfficientNet along with their variants, were trained and evaluated using the publicly available pediatric pneumonia dataset developed by Kermany et al. 
+In addition,a organized subclassification dataset was used to distinguish between bacterial and viral pneumonia cases.
